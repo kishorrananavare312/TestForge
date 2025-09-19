@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Mysuite">
+<test name="Myfile">
+
+<classes>
+<class name="Autotesting.Firstautotestcase"></class>
+<class name="Autotesting.LoginHRM"></class>
+</classes>
+</test>
+
+
+</suite>
